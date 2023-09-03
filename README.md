@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://klaudia-czerska.github.io/results-summary-component-main/](https://klaudia-czerska.github.io/results-summary-component-main/)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
